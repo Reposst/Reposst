@@ -10,4 +10,4 @@ Im the owner of mongo which you can invite [here](https://dsc.gg/mongo) and make
 
 ### Languages
 <img align="left" alt="node.js" width="28px" src="https://cdn.discordapp.com/emojis/766359910589792266.png" />
-<img align="left" alt="discord.js" width="26px" src="https://cdn.discordapp.com/emojis/851461487498493952.png" />
+<img align="left" alt="discord.js" width="29px" src="https://cdn.discordapp.com/emojis/851461487498493952.png" />
