@@ -17,4 +17,4 @@ Im the owner of mongo which you can invite [here](https://dsc.gg/mongo) and make
 
 ### Server Invite
 
-[![Discord Server](https://media.discordapp.net/attachments/861100138349199382/873844383940739082/image0.png)
+[![Discord Server]https://media.discordapp.net/attachments/861100138349199382/873844383940739082/image0.png](https://discord.gg/pfCW3dXh)
