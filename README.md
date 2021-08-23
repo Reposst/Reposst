@@ -1,3 +1,9 @@
+# Hey!
+
+Welcome to my readme, my name's call.
+
+
+
 # Mongo
 A cool multi purpose bot with alot of fun commands!
 
