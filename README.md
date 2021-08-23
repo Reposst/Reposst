@@ -1,9 +1,8 @@
-Hey, Welcome to my **README**, my name's call.
-
+Hey, Welcome to my **README**, my name's call. Im the owner of mongo if ya can tell.
 
 
 # Mongo
-A cool multi purpose bot with alot of fun commands!
+A cool multi purpose bot with alot of commands!
 
 [Add Mongo](https://dsc.gg/mongo) | [Discord Server](https://discord.gg/Ystsye27de) | [Top.gg](https://top.gg/bot/852002206772756500)
 
