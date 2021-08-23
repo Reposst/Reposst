@@ -2,6 +2,8 @@
 
 Welcome to my **README**, im call the guy nobody cares about.
 
+fun fact: i have sexual intercources with your monther.
+
 ## My Bot
 A cool multi purpose bot with alot of commands!
 
