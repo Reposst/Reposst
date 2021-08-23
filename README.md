@@ -2,7 +2,7 @@
 
 Welcome to my **README**, im call the guy nobody cares about.
 
-fun fact: i have sexual intercources with your monther.
+**fun fact**: i have sexual intercources with your mother.
 
 ## My Bot
 A cool multi purpose bot with alot of commands!
