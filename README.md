@@ -1,5 +1,6 @@
-Hey, Welcome to my **README**, my name's call. Im the owner of mongo if ya can tell.
+## Hey, there!
 
+Welcome to my **README**, my name's call, Im the guy nobody cares about.
 
 ## Mongo
 A cool multi purpose bot with alot of commands!
