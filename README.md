@@ -10,7 +10,9 @@ Welcome to my **README**, im call the guy nobody cares about.
 
 [ Discord Server ]
 
-[![Server](https://invidget.switchblade.xyz/Ystsye27de)](https://discord.gg/Ystsye27de)
+[![Server](https://invidget.switchblade.xyz/Ystsye27de)](https://discord.gg/Ystsye27de) 
+
+e
 
 
 
